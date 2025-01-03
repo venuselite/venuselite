@@ -1,4 +1,4 @@
-![Codewars](https://github.r2v.ch/codewars?user=venuselite&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=venuselite&name=true&hide_clan=true&top_languages=true&stroke=rgb(6,64,43)&theme=solarized_dark)
 
 
 <!--
